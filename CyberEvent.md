@@ -29,3 +29,6 @@ visibility, and inconsistent and ineffective practices around the A&A process. W
 A&A as a burden rather than a benefit, poor risk management decisions are inevitable. 
 
 ![image](https://user-images.githubusercontent.com/94389021/142030519-f692caf8-b425-45ef-9d65-acccc1eb6f0a.png)
+
+
+[Learn More Here](https://oig.nasa.gov/docs/IG-21-019.pdf)
